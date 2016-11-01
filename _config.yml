@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Waner Lopes
+twitter_username: wagnerlopes
+name: Wagner Luís Barbosa de Abreu Lopes
 
 # Build settings
 markdown: kramdown
@@ -22,10 +22,8 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
  - Spring MVC
  - Spring Boot
- - Gradle
  - Java
  - JPA
  - SQL
@@ -55,10 +53,9 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Analista de Sistemas
+   date: 1994
+   school: Faculdades Associadas de São Paulo
 
 #This section is optional (as is the image link below)
 coursera:
@@ -75,23 +72,12 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - wagnerlopes/esculapio
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   profileurl: http://stackoverflow.com/users/000000/wlopes
+   flairimageurl: http://stackoverflow.com/users/flair/000000.png
 
 #Mobile apps section is optional
 apps:
