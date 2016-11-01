@@ -61,15 +61,15 @@ education:
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.site.org/user/wagnerlopes
    courses:
     - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      link: https://www.site.org/course/progfun
+      optionalimage: https://site.com/small-icon.hover.png
       date: September 16, 2013
     - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      link: https://www.site.org/course/progfun
+      optionalimage: https://site.com/small-icon.hover.png
       date: April 28, 2014
 
 #List of interesting Github repo/projects to include - optional
@@ -83,9 +83,9 @@ stackoverflow:
 
 #Mobile apps section is optional
 apps:
- - name: Chuck the Quiz
+ - name: Teste
    platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+   url: https://play.google.com/store/apps/details?id=com.tmm.android.teste&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
    description: A basic early Android app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
