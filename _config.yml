@@ -55,22 +55,18 @@ roles:
 
 #Education is required
 education:
- - level: Analista de Sistemas
+ - level: System Analysis and Development
    date: 1994
    school: Faculdades Associadas de São Paulo
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.site.org/user/wagnerlopes
+   profileurl:
    courses:
-    - title: Exemplo 1
-      link: https://www.site.org/
-      optionalimage: https://site.com/small-icon.hover.png
-      date: September 16, 2016
-    - title: Sem nome
-      link: https://www.site.org/
-      optionalimage: https://site.com/small-icon.hover.png
-      date: April 28, 2016
+    - title:
+      link:
+      optionalimage:
+      date:
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -83,10 +79,10 @@ stackoverflow:
 
 #Mobile apps section is optional
 apps:
- - name: Teste
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.teste&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+ - name: 
+   platform:
+   url: 
+   description: 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
